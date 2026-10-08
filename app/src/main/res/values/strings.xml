@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EyeControl</string>
+    <string name="accessibility_service_label">Eye Gesture Control</string>
+    <string name="accessibility_service_description">Allows controlling your phone using eye gestures and movements detected through the front camera.</string>
+    <string name="notification_channel_name">Eye Tracking Service</string>
+    <string name="permission_camera_title">Camera Permission</string>
+    <string name="permission_camera_desc">Required to detect your eye movements using the front camera.</string>
+    <string name="permission_overlay_title">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Shows a small indicator while eye tracking is active.</string>
+    <string name="permission_accessibility_title">Accessibility Service</string>
+    <string name="permission_accessibility_desc">Required to perform gestures and control your phone based on eye movements.</string>
+</resources>
